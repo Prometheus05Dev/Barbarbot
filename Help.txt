@@ -1,0 +1,30 @@
+Du kannst dir selbst Rollen hinzufügen,
+welche man pingen kann.
+
+Wenn zum Beispiel jemand eine Frage
+zu Java hat kann er einfach
+@Java pingen.
+
+Wenn jemand jemanden sucht der mit ihm
+0 A.D spielen möchte kann er @0AD
+pingen.
+
+Wenn dir eine Rolle
+fehlt einfach @Prometheus05 pingen.
+
+Bitte beachten, dass Rollen wie in der
+Liste geschrieben werden müssen!
+
+Der Befehl lautet:
+/rolle (neu/entfernen) {Rolle}
+
+Wenn du alle Gaming Rollen
+sehen möchtest:
+	/rolle hilfe gaming
+	
+Wenn du alle Programmierer Rollen
+sehen möchtest:
+	/rolle hilfe programmieren
+	
+Wenn du alle deine Rollen sehen möchtest
+	/rolle list
